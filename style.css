@@ -1,0 +1,51 @@
+body{
+    background-color:  rgb(223, 222, 222);
+}
+
+
+
+.row{
+   padding: 20px;
+}
+
+.card{
+  height: 20em;
+  width: 18em;
+}
+
+.card img{
+  height: 16em;
+}
+.card:hover{
+border: 2px solid black;
+}
+
+ .photographer{
+  margin: 0px;
+
+
+}
+/*
+.photographer:hover{
+
+  transform: rotateX(40deg);
+  animation: one 2s infinite;
+  animation-direction: alternate;
+  
+} */
+
+.card-body button{
+  border-radius: 50%;
+}
+.heading{
+    background-color: black;
+    font-size: 50px;
+    color:rgb(255, 255, 255);
+    padding: 20px;
+  }
+
+  .shoppingcartbtn{
+    float: right;
+    margin: 20px;
+    font-size: 20px;
+  }
